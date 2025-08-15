@@ -1,9 +1,10 @@
-import Day1 from "./day-1/Day1";
+
+import Day2 from "./day-2/Day2";
 
 function App() {
   return (
     <div className="App">
-      <Day1 />
+      <Day2 />
     </div>
   );
 }

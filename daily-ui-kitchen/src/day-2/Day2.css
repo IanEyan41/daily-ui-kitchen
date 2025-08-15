@@ -1,0 +1,187 @@
+html,
+body,
+#root {
+  height: 1024px;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+p {
+  margin: 0px;
+}
+
+.screen {
+  display: flex;
+  width: 430px;
+  height: 932px;
+
+  border-color: black;
+  border: solid;
+
+  border-radius: 20px;
+  flex-direction: column;
+}
+
+.container-1 {
+  width: 430px;
+  height: 162px;
+  background-color: white;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+
+  background-image: url("./progress.png");
+  background-repeat: no-repeat;
+  background-position-x: 49px;
+  background-position-y: 43px;
+}
+
+.container-1 > p {
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  margin-top: 97px;
+  margin-left: 48px;
+}
+
+.container-2 {
+  display: flex;
+
+  flex-direction: column;
+  background: linear-gradient(
+      180deg,
+      rgba(0, 0, 0, 0.1) 0%,
+      rgba(0, 0, 0, 0) 2.5%
+    ),
+    rgba(217, 217, 217, 0.1);
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  width: 430px;
+  height: 770px;
+  background-color: white;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+
+.container-2 > p {
+  width: 289px;
+  height: 20px;
+  margin-left: 48px;
+  margin-top: 33px;
+
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 29px;
+
+  color: #000000;
+}
+
+.container-3 {
+  width: 337px;
+  height: 65px;
+  margin-top: 36px;
+  margin-left: 48px;
+  display: flex;
+  gap: 11px;
+}
+
+.container-4 {
+  width: 105px;
+  height: 65px;
+}
+
+.credit {
+  background-image: url("credit.png");
+  background-repeat: no-repeat;
+}
+
+.apple {
+  background-image: url("apple.png");
+  background-repeat: no-repeat;
+}
+.paypal {
+  background-image: url("paypal.png");
+  background-repeat: no-repeat;
+}
+
+.container-5 {
+  width: 668px;
+  height: 177px;
+  display: flex;
+  margin-left: 50px;
+  margin-top: 36px;
+}
+
+.container-6 {
+  background-image: url("blue-c.png");
+  background-repeat: no-repeat;
+  width: 250px;
+  height: 117px;
+  background-size: contain;
+}
+
+.add-a-new-card {
+  box-sizing: border-box;
+
+  width: 147px;
+  height: 37px;
+
+  border: 1px solid rgba(128, 141, 253, 0.5);
+  border-radius: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 141px;
+}
+
+.add-a-new-card > p {
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 20px;
+
+  color: rgba(128, 141, 253, 0.5);
+}
+
+.line {
+  margin-top: 53px;
+  margin-left: 0px;
+}
+
+.amount {
+  margin-left: 48px;
+  margin-top: 25px;
+  height: 28px;
+
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 29px;
+}
+
+.money {
+  margin-top: 25px;
+  margin-left: 150px;
+  width: 113px;
+  height: 41px;
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 35px;
+}
+#pay {
+  width: 330px;
+  height: 65px;
+  background-color: #7a77fb;
+  border-style: none;
+  border-radius: 10px;
+  cursor: pointer;
+  align-self: center;
+  margin-top: 42px;
+}
