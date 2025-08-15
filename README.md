@@ -25,9 +25,11 @@ Things i need to remember and improve
 ### Day 002 → Credit card checkout page
 
 Design 
+
 ![alt text](<daily-ui-kitchen/src/day-2/day-2 Design & Result/design.png>)
 
 Result
+
 ![alt text](<daily-ui-kitchen/src/day-2/day-2 Design & Result/result.png>)
 
 Things i need to remember
