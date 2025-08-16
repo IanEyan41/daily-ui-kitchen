@@ -9,9 +9,11 @@ The goal is to make each dish (UI) pixel-perfect from figma to code each day.
 ### Day 001 → Sign up page
 
 Design
+
 ![alt text](<daily-ui-kitchen/src/day-1/day-1-design & result/Day1_design.png>)
 
-Result
+Code
+
 ![alt text](<daily-ui-kitchen/src/day-1/day-1-design & result/Day1_result.png>)
 
 Things i need to remember and improve
@@ -28,7 +30,7 @@ Design
 
 ![alt text](<daily-ui-kitchen/src/day-2/day-2 Design & Result/design.png>)
 
-Result
+Code
 
 ![alt text](<daily-ui-kitchen/src/day-2/day-2 Design & Result/result.png>)
 
