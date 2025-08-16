@@ -2,7 +2,7 @@
 
 My journey to becoming the Carmy of frontend.  
 One handcrafted UI dish every day.  
-Each dish is pixel-perfect, responsive, and accessible.
+The goal is to make each dish (UI) pixel-perfect from figma to code.
 
 ## 📅 Daily UI Dishes
 
